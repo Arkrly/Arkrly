@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19245724" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/arkrly" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arkrly" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Social/kaggle.svg" alt="arkrly" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aryankxd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryankxd" height="30" width="40" />
@@ -63,6 +63,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         <p>CSS3</p>
       </a>
+      <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+        <p>Solidity</p>
+      </a>
     </td>
     <td align="center">
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -80,6 +84,10 @@
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
         <p>Angular</p>
+      </a>
+      <a href="https://www.avax.network/" target="_blank" rel="noreferrer">
+        <img src="https://assets.avax.network/branding/Avax_Red_Icon.svg" alt="avalanche" width="40" height="40"/>
+        <p>Avalanche</p>
       </a>
     </td>
     <td align="center">
