@@ -34,85 +34,76 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks & Libraries</th>
-    <th>Databases</th>
-    <th>DevOps & Tools</th>
-    <th>Design</th>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks & Libraries</th>
+      <th>Databases</th>
+      <th>DevOps & Tools</th>
+      <th>Blockchain Tools</th>
+      <th>Design Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><br>Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+      </td>
+      <td align="center">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><br>Spring
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br>MongoDB
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br>Docker
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><br>Kotlin
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      </td>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br>MySQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br>Git
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br>Docker
+      </td>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/><br>Solidity
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><br>Angular
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br>Node.js
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.avax.network/" target="_blank" rel="noreferrer">
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><br>Kotlin
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br>React
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br>Git
+      </td>
+      <td align="center">
         <img src="https://assets.avax.network/branding/Avax_Red_Icon.svg" alt="avalanche" width="40" height="40"/><br>Avalanche
-      </a>
-    </td>
-  </tr>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/><br>Photoshop
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><br>C
+      </td>
+      <td align="center">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><br>Angular
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><br>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/truffle/truffle-original.svg" alt="truffle" width="40" height="40"/><br>Truffle
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/><br>Figma
+      </td>
+    </tr>
+  </tbody>
 </table>
