@@ -1,90 +1,57 @@
-# Hi 👋, I'm Aryan Kumar
+# 🎉 Welcome! I'm Aryan Kumar
 
-Student and Web3 Enthusiast, Curious about Solidity and Spring/Java Technologies
-
----
-
-🔭 Currently working on <a href="https://github.com/shaikhafsaralli/Task-Management-System">Task-Management-System</a>
-
-🌱 Learning Solidity, Spring Framework
-
-💬 Ask me about Web Dev, PHP, Web3
-
-📫 How to reach me: <strong>aryankjsr@gmail.com</strong>
-
-⚡ Fun fact: I like Playing Video Games
+Student & Web3 Enthusiast | Passionate about Solidity and Spring/Java Technologies
 
 ---
 
-## Languages and Tools:
+🔭 Currently crafting: [Task-Management-System](https://github.com/shaikhafsaralli/Task-Management-System)
 
-<a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
-<a href="https://angular.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
+🌱 Exploring: Solidity, Spring Framework
+
+💬 Let's chat about: Web Development, PHP, Web3
+
+📫 Reach me: [aryankjsr@gmail.com](mailto:aryankjsr@gmail.com)
+
+⚡ Fun fact: Gaming enthusiast
 
 ---
 
-## Connect with me:
+## 🛠️ Tech Toolbox
 
-<a href="https://twitter.com/aryankxd" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryankxd" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/aryankjsr" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankjsr" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/19245724" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19245724" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/arkrly" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arkrly" height="30" width="40" />
-</a>
-<a href="https://instagram.com/aryankxd" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryankxd" height="30" width="40" />
-</a>
-<a href="https://discord.gg/qJNJ5WPj" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qJNJ5WPj" height="30" width="40" />
-</a>
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DBB9E?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
-## Contact Information:
+## 🌐 Connect with Me
 
-Email: aryankjsr@gmail.com</br>
+<a href="https://twitter.com/aryankxd" target="_blank"><img src="https://img.shields.io/twitter/follow/aryankxd?style=social" alt="Twitter : @aryankxd"></a>
+
+<a href="https://linkedin.com/in/aryankjsr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+
+<a href="https://stackoverflow.com/users/19245724" target="_blank"><img src="https://img.shields.io/badge/-Stack_Overflow-F48024?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+
+<a href="https://kaggle.com/arkrly" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a>
+
+<a href="https://instagram.com/aryankxd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306A?style=flat-square&logo=instagram&logoColor=white"></a>
+
+<a href="https://discord.gg/qJNJ5WPj" target="_blank"><img src="https://img.shields.io/discord/708813647834786816?color=7289DA&label=Discord&logo=discord&style=flat-square"></a>
+
+---
+
+## 📞 Contact Information
+
+Email: <aryankjsr@gmail.com></br>
 Phone: +91 9142446712 </br>
 Location: Odisha, India
