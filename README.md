@@ -1,40 +1,30 @@
-# 🎉 Welcome! I'm Aryan Kumar
+# Aryan Kumar | Web3 Enthusiast & Blockchain Developer
 
-Student & Web3 Enthusiast | Passionate about Solidity and Spring/Java Technologies
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Blockchain+Developer;Solidity;Java+%26+Spring+Enthusiast)](https://git.io/typing-svg)
 
----
+## 👋 About Me
 
-🔭 Currently crafting: [Task-Management-System](https://github.com/shaikhafsaralli/Task-Management-System)
-
-🌱 Exploring: Solidity, Spring Framework
-
-💬 Let's chat about: Web Development, PHP, Web3
-
-📫 Reach me: [aryankjsr@gmail.com](mailto:aryankjsr@gmail.com)
-
-⚡ Fun fact: Gaming enthusiast
+I'm a **student** and **Web3 enthusiast**, specializing in **Solidity** and **Java/Spring** technologies. My focus lies in bridging the gap between traditional web development and the exciting world of blockchain.
 
 ---
 
-## 🛠️ Tech Toolbox
+### 🚀 Current Projects
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DBB9E?style=flat-square&logo=spring&logoColor=white)
+- 🔭 **Developing**: [Task-Management-System](https://github.com/shaikhafsaralli/Task-Management-System)
+- 🌱 **Exploring**: Advanced Solidity concepts, Spring Framework optimization
 
 ---
 
-## 🌐 Connect with Me
+### 💡 Learning
+
+- 💬 Web Development
+- 🔗 Blockchain Technologies
+- ☕ Java & Spring Framework
+- 🌐 Web3 Integration
+
+---
+
+### 📫 Let's Connect
 
 <a href="https://twitter.com/aryankxd" target="_blank"><img src="https://img.shields.io/twitter/follow/aryankxd?style=social" alt="Twitter : @aryankxd"></a>
 
@@ -50,8 +40,31 @@ Student & Web3 Enthusiast | Passionate about Solidity and Spring/Java Technologi
 
 ---
 
-## 📞 Contact Information
+## 🛠️ Tech Stack
 
-Email: <aryankjsr@gmail.com></br>
-Phone: +91 9142446712 </br>
-Location: Odisha, India
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 Skill Proficiency
+
+```mermaid
+graph TD
+    A[Skills] --> B[Blockchain]
+    A --> C[Web Development]
+    A --> D[Backend]
+    B --> E[Solidity 20%]
+    B --> F[Web3.js 15%]
+    C --> G[HTML/CSS 90%]
+    C --> H[JavaScript 50%]
+    D --> I[Java 60%]
+    D --> J[Spring 20%]
+    D --> K[MongoDB 50%]
