@@ -10,7 +10,6 @@ I'm a **student** and **Web3 enthusiast**, specializing in **Solidity** and **Ja
 
 ### 🚀 Current Projects
 
-- 🔭 **Developing**: [Task-Management-System](https://github.com/shaikhafsaralli/Task-Management-System)
 - 🌱 **Exploring**: Advanced Solidity concepts, Spring Framework optimization
 
 ---
