@@ -67,7 +67,7 @@ Hi, I’m **Aryan Kumar** — a curious builder connecting modern **backend syst
   <a href="https://drive.google.com/file/d/1r368f46NrHRPkUOGl2TJ-4VhErSAFXOZ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="aryank.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-00C853?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:aryankxd@gmail.com" target="_blank">
@@ -75,7 +75,6 @@ Hi, I’m **Aryan Kumar** — a curious builder connecting modern **backend syst
   </a>
 </p>
 
-> 📝 Replace `your-resume-link.com` and `your-portfolio-link.com` with your actual links
 
 ---
 
