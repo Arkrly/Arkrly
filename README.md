@@ -1,4 +1,4 @@
-# Aryan Kumar | Blockchain Developer & Web3 Enthusiast
+# Aryan Kumar | Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Building+with+Solidity+%26+Web3;Spring+Boot+%2B+Java+Lover;Mastering+PostgreSQL+Replication;Automation+Testing+with+Selenium;Learning+Clarity+and+Stacks)](https://git.io/typing-svg)
 
