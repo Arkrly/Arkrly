@@ -55,6 +55,7 @@
 <div align="center">
 
 **Backend & APIs:** `Java` `Spring Boot` `REST` `GraphQL` `WebSockets`  
+**Real-time Systems:** `WebSockets` `STOMP` `Socket.IO`  
 **Databases:** `PostgreSQL` `Redis` `Query Optimization`  
 **DevOps:** `Docker` `GitHub Actions` `CI/CD`  
 **Testing:** `JUnit` `TestNG` `Selenium WebDriver`  
@@ -65,6 +66,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,solidity,selenium,redis,github&theme=dark" />
 
 </div>
+
 
 ---
 
